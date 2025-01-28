@@ -1,8 +1,8 @@
 
-#  Projeto de TCC: Armazém da Eletrônica
+#  Projeto site : Armazém da Eletrônica
 
 ## Armazém da Eletrônica
-Bem-vindo ao Armazém da Eletrônica, uma plataforma de e-commerce desenvolvida como parte do TCC para oferecer uma experiência otimizada na compra de componentes eletrônicos. Este projeto foca em acessibilidade, navegabilidade e funcionalidade, atendendo tanto iniciantes quanto profissionais da área de eletrônica.
+Bem-vindo ao Armazém da Eletrônica, uma plataforma de e-commerce desenvolvida como um exemplo de site de loja online para oferecer uma experiência otimizada na compra de componentes eletrônicos. Este projeto foca em acessibilidade, navegabilidade e funcionalidade, atendendo tanto iniciantes quanto profissionais da área de eletrônica.
 
 
 ## 🔧 Funcionalidades
