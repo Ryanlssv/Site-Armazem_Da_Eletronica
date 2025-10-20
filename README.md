@@ -6,7 +6,7 @@ Bem-vindo ao Armazém da Eletrônica, uma plataforma de e-commerce desenvolvida 
 
 
 ## 🔧 Funcionalidades
-- Interface Dinâmica:
+- Interface Dinâmica
 
 Carrossel de imagens para destacar categorias e produtos mais vendidos.
 Modal para visualização detalhada de produtos, incluindo descrições, preços e formas de pagamento.
